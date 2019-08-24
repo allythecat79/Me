@@ -1,0 +1,11 @@
+img {
+  width: 300px;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.col-md-4 {
+  background-color: pink;
+}
