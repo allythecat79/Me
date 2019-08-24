@@ -1,3 +1,7 @@
+body {
+  background-color: pink
+}
+
 img {
   width: 300px;
 }
@@ -6,6 +10,18 @@ img {
   text-align: center;
 }
 
-img {
-  align-items: center;
+h1 {
+  color: red;
+  font-weight: bold;
+}
+
+.sidebar {
+  width: 25%;
+  float: left;
+  background-color: lightblue;
+}
+
+.important {
+  color: red;
+  font-style: italic;
 }
