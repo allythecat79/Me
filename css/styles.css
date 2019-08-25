@@ -39,9 +39,24 @@ h3 {
 .column {
   width: 300px;
   float: left;
-  padding: 4px;
+  padding: 6px;
 }
 
 .panel-title {
   font-size: 25px;
+}
+
+.photo1 {
+  width: 225px;
+  float: left;
+}
+
+.photo2 {
+  width: 225px;
+  float: right;
+}
+
+.columna {
+  width: 500px;
+  float: left;
 }
