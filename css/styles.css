@@ -49,14 +49,17 @@ h3 {
 .photo1 {
   width: 225px;
   float: left;
+  border: 2px solid black;
 }
 
 .photo2 {
   width: 225px;
   float: right;
+  border: 2px solid black;
 }
 
 .columna {
   width: 500px;
   float: left;
+  padding: 6px;
 }
