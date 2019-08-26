@@ -28,7 +28,5 @@ _In addition to HTML and CSS this page also uses Bootstrap._
 
 ### License
 
-*Determine the license under which this application can be used.  See below for more details on licensing.*
-
 *This software is licensed under the MIT license.*
 Copyright (c) 2015 **_{Allie Bryan}_**
